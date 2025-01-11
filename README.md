@@ -5,6 +5,8 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 - **Proyecto Compresor de Texto**: [Ver repositorio](https://github.com/alegria666/CompresorTxt)
   - Este proyecto es una herramienta con interfaz gráfica realizado en Python para la compresión y descompresión de texto mediante un mapa de palabras almacenado en un archivo JSON.
     
+
+
   
 - **Proyecto Lavautos**: [Ver repositorio](https://github.com/alegria666/Lavautos-Colas)
   - Este proyecto es una aplicación gráfica desarrollada en Python que permite gestionar los datos de un lavautos. Los vehículos se organizan y se "encolan" según su tipo, utilizando la estructura de datos Colas.
