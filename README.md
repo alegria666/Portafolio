@@ -25,7 +25,7 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 ---
 
 - **Proyecto Página Web con integración de Base de Datos y PHP**: [Ver repositorio](https://github.com/alegria666/AquaSoluciones-PaginaWeb-BD)
-  - Aquasoluciones es una plataforma para gestionar servicios relacionados con la distribución y administración del agua. La página incluye funcionalidades de presentación de la empresa, registro de información clave, y gestión de elementos asociados al suministro de agua.
+  - Aquasoluciones es una plataforma para gestionar servicios relacionados con la distribución y administración del servicio de agua. La página incluye funcionalidades de presentación de la empresa, registro de información clave, y gestión de elementos asociados a la administración llevada a cabo en el suministro de agua.
 
 ---
 
