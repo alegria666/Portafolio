@@ -1,6 +1,6 @@
 # Mi Portafolio de Proyectos
 
-Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más destacados que he desarrollado:
+Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más destacados que he desarrollado, la lista se irá actualizando ya que tengo varios proyectos locales que no he concentrado en el repositorio por tiempo, como principales están los siguientes:
 
 ---
 
