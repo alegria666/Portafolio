@@ -35,7 +35,7 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 ---
 
 - **Proyecto Principal: Desarrollo Web de Servicios Aduaneros con framework Django**: [Ver repositorio](https://github.com/alegria666/DesarrolloWeb-Django)
-  - Este es un sistema desarrollado en Django para la gestión de procesos aduaneros. Incluye funcionalidades de CRUD (Crear, Leer, Actualizar, Eliminar) distribuidas en seis apartados principales. Cada segmento está diseñado para ser amigable con el usuario, implementando una interfaz intuitiva y un flujo eficiente.
+  - Este es un sistema desarrollado en Django para la gestión de procesos aduaneros. Incluye funcionalidades de CRUD (Crear, Leer, Actualizar, Eliminar) distribuidas en seis apartados principales, PostgreSQL, y frontend responsive (HTML, CSS, JS). Incluye autenticación segura, API RESTful, gestión de usuarios y roles, formularios dinámicos, y despliegue en producción con WSGI/ASGI.
 
 ¡Gracias por visitarlo! :)
 
