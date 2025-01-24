@@ -29,6 +29,11 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
+- **Análisis de Calidad de Vinos con Árboles de Decisión**: [Ver repositorio](https://github.com/daniel-alegria-z/Calidad-de-Vinos)
+  - Este proyecto aplica técnicas de minería de datos para analizar y predecir la calidad del vino en base a sus características químicas. Utilizando modelos de Árbol de Decisión, se entrenaron y evaluaron predicciones con métricas clave como la precisión y la matriz de confusión. Además, se generaron visualizaciones para comprender la importancia de las características y la distribución de los datos, destacando el impacto de atributos como el contenido de alcohol y los ácidos volátiles. Este proyecto demuestra habilidades en preprocesamiento de datos, visualización y desarrollo de modelos predictivos utilizando Scikit-learn, Pandas y Seaborn.
+
+---
+
 - **Proyecto Principal: Desarrollo Web de Servicios Aduaneros con framework Django**: [Ver repositorio](https://github.com/alegria666/DesarrolloWeb-Django)
   - Este es un sistema desarrollado en Django para la gestión de procesos aduaneros. Incluye funcionalidades de CRUD (Crear, Leer, Actualizar, Eliminar) distribuidas en seis apartados principales. Cada segmento está diseñado para ser amigable con el usuario, implementando una interfaz intuitiva y un flujo eficiente.
 
